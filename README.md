@@ -1,2 +1,2 @@
 # Longitudinal-Infant-Functional-Connectivity-Prediction-via-Conditional-Intensive-Triplet-Network
-MICCAI 2022 paper
+The Code Repository for "Longitudinal-Infant-Functional-Connectivity-Prediction-via-Conditional-Intensive-Triplet-Network", in MICCAI 2022.
